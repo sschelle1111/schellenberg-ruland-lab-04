@@ -1,0 +1,8 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Lab Assignment 4"
+format:
+  html:
+    toc: true
